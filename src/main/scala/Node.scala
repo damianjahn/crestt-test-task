@@ -7,11 +7,6 @@ case class Node() extends TNode[Node] {
 
 
   override def getData(): Unit = {
-    // for element in children getData()
-    // + "id : " + id
-    //
-    //for (String <- children) Array[T]
-
   }
 
   override var children: Array[Node] = Array()

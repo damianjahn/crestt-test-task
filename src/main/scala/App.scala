@@ -7,7 +7,7 @@ import net.liftweb.json._
 
 object App {
   def main(args: Array[String]): Unit = {
-    // println("Hello, world")
+
     val home = System.getProperty("user.home")
     val bufferedSource = io.Source.fromFile(s"${home}/Desktop/Scala_zadanie.csv")
 
@@ -50,7 +50,6 @@ object App {
       }
     }
 
-    //val json: JObject = "elements" -> firstLevel
     implicit val formats = DefaultFormats
     val json = write(firstLevel)
     println(json)
