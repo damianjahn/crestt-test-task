@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/damianjahn/Developer/crestt-test-task/target/scala-2.13/crestt-test-task_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	App$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/damianjahn/Developer/crestt-test-task/target/scala-2.13/classes/App$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Node$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/damianjahn/Developer/crestt-test-task/target/scala-2.13/classes/Node$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/damianjahn/Developer/crestt-test-task/target/scala-2.13/classes/TNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	App.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/damianjahn/Developer/crestt-test-task/target/scala-2.13/classes/App.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/damianjahn/Developer/crestt-test-task/target/scala-2.13/classes/Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
